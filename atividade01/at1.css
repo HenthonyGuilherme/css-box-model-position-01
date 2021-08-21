@@ -1,0 +1,16 @@
+img{
+    margin: 5px;
+    padding: 10px;
+    width: 14em;
+    height: auto;
+}
+
+.dog1{border: 2px solid red;}
+
+.dog2{border: 4px dotted blue;}
+
+.dog3{border: 6px double green;}
+
+.dog4{border: 8px groove yellow;}
+
+.dog5{border: 10px dashed purple;}
